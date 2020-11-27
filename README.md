@@ -11,3 +11,7 @@
 - check node existing by writing `node --version` to make sure that node has
   installed.
 - run the task using `npm start`
+
+## Notes
+
+- you can find code logic inside `problem.js` file
